@@ -1,2 +1,2 @@
-# OlaMundo
- pasta do curso Git Gustavo Guanabara
+# Olá Mundo!
+ pasta do curso Git Gustavo Guanabara.
